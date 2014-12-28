@@ -3,4 +3,5 @@ body {
   padding-top: 70px;
 }
 
-.navbar-brand{color:#E60000}
+.navbar-default .navbar-brand {color: #E60000;}
+
